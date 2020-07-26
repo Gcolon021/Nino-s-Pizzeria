@@ -21,3 +21,5 @@ function App() {
 }
 
 export default App;
+
+// <Link to="/{path}"> path </Link> can be used to handle redirect as button links
